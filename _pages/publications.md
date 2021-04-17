@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+* [Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722816)
+**Xiangyu Peng**, Ningbin Zhang, Lisen Ge, Guoying Gu           
+_The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, 13-18, Seoul, Korea, April 14-18, 2019.
