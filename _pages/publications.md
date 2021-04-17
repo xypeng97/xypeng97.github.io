@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-[1] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** (In Review)
+[1] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** (In Review) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021.
 
