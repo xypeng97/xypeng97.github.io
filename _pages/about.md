@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! This is Xiangyu Peng! 
 
-I'm a currently a 2nd-year master student at Robotics Institute at the University of Michigan, Ann Arbor. I conducted research about exoskeleton and human study, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). 
+I'm a currently a 2nd-year master student at Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I conducted research about exoskeleton and human study, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). 
 
 I received my B.E. in School of Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). During my undergraduate, I worked with Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN) on soft robotics.
 
