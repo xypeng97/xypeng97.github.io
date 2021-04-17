@@ -4,7 +4,7 @@ title: "CV"
 permalink: https://xypeng97.github.io/files/CV_Xiangyu_Peng.pdf
 author_profile: true
 redirect_from:
-  - /resume
+  - https://xypeng97.github.io/files/CV_Xiangyu_Peng.pdf
 ---
 
 
