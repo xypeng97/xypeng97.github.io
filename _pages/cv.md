@@ -1,11 +1,16 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://xypeng97.github.io/CV_Xiangyu_Peng.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+
+My CV can be downloaded [here](https://xypeng97.github.io/CV_Xiangyu_Peng.pdf).
+
 
 <!-- {% include base_path %}
 
