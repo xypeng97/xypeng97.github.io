@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a currently a 2nd-year master student in the Robotics Institute at the [University of Michigan](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN). My research interest falls in wearable robotics, exoskeleton and human-robot interaction.
+I'm a 2nd-year master student in the Robotics Institute at the [University of Michigan](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN). My research interest falls in wearable robotics, exoskeleton and human-robot interaction.
 
-I will be a PhD student at Robotics Institute at the University of Michigan, Ann Arbor starting Fall 2021.
+I will be a PhD student in the Robotics Institute at the University of Michigan, Ann Arbor starting Fall 2021.
 
 
 
