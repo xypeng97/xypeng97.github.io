@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-Hi! This is Xiangyu Peng! 
-
-I'm a currently a 2nd-year master student at Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I conducted research about exoskeleton and human study, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). 
-
-I received my B.E. in School of Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). During my undergraduate, I worked with Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN) on soft robotics.
+I'm a currently a 2nd-year master student in the Robotics Institute at the [University of Michigan](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN). My research interest falls in wearable robotics, exoskeleton and human-robot interaction.
 
 I will be a PhD student at Robotics Institute at the University of Michigan, Ann Arbor starting Fall 2021.
 
@@ -21,11 +16,11 @@ I will be a PhD student at Robotics Institute at the University of Michigan, Ann
 
 News
 ======
-* **Apr, 2020 -** We submitted our papepr on human perception of exoskeleton actuation timing to 2021 EMBC!
+* **Apr, 2020 -** We submitted our paper on human perception of exoskeleton actuation timing to 2021 EMBC!
 * **Oct, 2020 -** I was nominated by Robotics Institute for the Rackham International Student Fellowship!
 * **Jan, 2020 -** I joined Stirling Research Group as a research assistant.
 * **Sep, 2019 -** I started my Master's in Robotics at University of Michigan!
-* **Jun, 2019 -** I graduated from Shanghai Jiao Tong University with honor: Excellent Undergraduate in Shanghai.
+* **Jun, 2019 -** I graduated from Shanghai Jiao Tong University with honor: Excellent Undergraduate in Shanghai!
 * **Jan, 2019 -** Our paper on design of soft continuum manipulators is accepted for publication on 2019 RoboSoft!
 
 
