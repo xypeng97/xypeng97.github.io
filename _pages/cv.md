@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /CV_Xiangyu_Peng.pdf
+permalink: https://xypeng97.github.io/CV_Xiangyu_Peng.pdf
 author_profile: true
 redirect_from:
   - /resume
