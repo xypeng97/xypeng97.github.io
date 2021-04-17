@@ -16,7 +16,7 @@ I will be a PhD student at Robotics Institute at the University of Michigan, Ann
 
 News
 ======
-* **Apr, 2020 -** We submitted our paper on human perception of exoskeleton actuation timing to 2021 EMBC!
+* **Apr, 2021 -** We submitted our paper on human perception of exoskeleton actuation timing to 2021 EMBC!
 * **Oct, 2020 -** I was nominated by Robotics Institute for the Rackham International Student Fellowship!
 * **Jan, 2020 -** I joined Stirling Research Group as a research assistant.
 * **Sep, 2019 -** I started my Master's in Robotics at University of Michigan!
