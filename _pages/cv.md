@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-My CV can be downloaded [here](https://xypeng97.github.io/CV_Xiangyu_Peng.pdf).
+My CV can be downloaded [here](https://xypeng97.github.io/files/CV_Xiangyu_Peng.pdf).
 
 
 <!-- {% include base_path %}
