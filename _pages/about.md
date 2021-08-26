@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 2nd-year master student in the Robotics Institute at the [University of Michigan](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN). My research interest falls in wearable robotics, exoskeleton and human-robot interaction.
-
-I will be a PhD student in the Robotics Institute at the University of Michigan, Ann Arbor starting Fall 2021.
+I'm first year PhD student in the Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN). My research interest falls in wearable robotics, exoskeleton and human-robot interaction.
 
 
 
@@ -26,11 +24,15 @@ My research primarily focuses on wearable robotics, mainly studying the human-ro
 
 Publications
 ======
-[1] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** (Accepted) \\
+[1] **Actuation Timing Perception of Powered Ankle Exoskeleton During Walking** (In Preparation)\\
+**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
+_IEEE Transactions on Neural Systems and Rehabilitation Engineering_,
+
+[2] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** (Accepted) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
-[2] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722816) \\
+[3] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8722816) \\
 **Xiangyu Peng**, Ningbin Zhang, Lisen Ge, Guoying Gu           
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
