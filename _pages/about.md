@@ -25,8 +25,8 @@ My research primarily focuses on wearable robotics, mainly studying the human-ro
 Publications
 ======
 [1] **Actuation Timing Perception of Powered Ankle Exoskeleton During Walking** (In Preparation)\\
-**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
-_IEEE Transactions on Neural Systems and Rehabilitation Engineering_,
+<!-- **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
+_IEEE Transactions on Neural Systems and Rehabilitation Engineering_, -->
 
 [2] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** (Accepted) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
