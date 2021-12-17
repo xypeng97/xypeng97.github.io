@@ -28,7 +28,7 @@ Publications
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2021
 
-[2] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** (Accepted) \\
+[2] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](https://ieeexplore-ieee-org/stamp/stamp.jsp?tp=&arnumber=9629925) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
