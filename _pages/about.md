@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm first year PhD student in the Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN). My research interest falls in wearable robotics, exoskeleton and human-robot interaction.
+I'm a first year PhD student in the Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN).
 
 
 
@@ -21,12 +21,21 @@ My research primarily focuses on wearable robotics, mainly studying the human-ro
 
 
 
+Education
+======
+2021 - _Present_ **Ph.D.** (Robotics), University of Michigan - Ann Arbor (USA)
+2019 - 2021 **M.S.** (Robotics), University of Michigan - Ann Arbor (USA)
+2015 - 2019 **B.E.** (Mechanical Engineering), Shanghai Jiao Tong University (China)
+
+
+
+
 
 Publications
 ======
-[1] **Actuation Timing Perception of Powered Ankle Exoskeleton During Walking** (Under Review)\\
+[1] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** (Accepted)\\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
-_IEEE Transactions on Neural Systems and Rehabilitation Engineering_, 2021
+_IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022
 
 [2] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
