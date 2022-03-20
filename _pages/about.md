@@ -23,8 +23,8 @@ My research primarily focuses on wearable robotics, mainly studying the human-ro
 
 Education
 ======
-2021 - _Present_ **Ph.D.** (Robotics), University of Michigan - Ann Arbor (USA)
-2019 - 2021 **M.S.** (Robotics), University of Michigan - Ann Arbor (USA)
+2021 - _Present_ **Ph.D.** (Robotics), University of Michigan - Ann Arbor (USA) \\
+2019 - 2021 **M.S.** (Robotics), University of Michigan - Ann Arbor (USA) \\
 2015 - 2019 **B.E.** (Mechanical Engineering), Shanghai Jiao Tong University (China)
 
 
