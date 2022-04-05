@@ -33,7 +33,7 @@ Education
 
 Publications
 ======
-[1] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** \\
+[1] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022
 
