@@ -46,8 +46,10 @@ _The 43rd Annual International Conference of the IEEE Engineering in Medicine an
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
 
+\\
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=mfhIKhpyvC8lNUh4nhpIwhAEdyjt0pftXhjg4_zt_cQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=mfhIKhpyvC8lNUh4nhpIwhAEdyjt0pftXhjg4_zt_cQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
 <!-- News
 ======
