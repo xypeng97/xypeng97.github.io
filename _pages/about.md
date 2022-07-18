@@ -47,6 +47,7 @@ _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Kore
 
 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mfhIKhpyvC8lNUh4nhpIwhAEdyjt0pftXhjg4_zt_cQ&cl=ffffff&w=a"></script>
 
 
 <!-- News
