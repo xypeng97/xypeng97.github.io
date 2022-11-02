@@ -33,23 +33,25 @@ Education
 
 Publications
 ======
-[1] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
+[1] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons** \\
+**Xiangyu Peng**, Leia Stirling           
+_In Preparation_, 2022
+
+[2] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022
 
-[2] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
+[3] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
-[3] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
+[4] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
 **Xiangyu Peng**, Ningbin Zhang, Lisen Ge, Guoying Gu           
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
 
-\\
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=mfhIKhpyvC8lNUh4nhpIwhAEdyjt0pftXhjg4_zt_cQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=mfhIKhpyvC8lNUh4nhpIwhAEdyjt0pftXhjg4_zt_cQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
 <!-- News
 ======
