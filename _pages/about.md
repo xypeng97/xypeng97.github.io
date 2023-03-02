@@ -35,11 +35,10 @@ Publications
 ======
 [1] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons** \\
 **Xiangyu Peng**, Leia Stirling           
-<<<<<<< HEAD
 _In Preparation_, 2023.
 
 [2] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
-**Xiangyu Peng** and Leia Stirling, 
+**Xiangyu Peng** and Leia Stirling
 _Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES)_, Washington DC, October 23-27, 2023. (under review)
 
 [3] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
@@ -51,19 +50,6 @@ _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 20
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
 [5] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
-=======
-_In Preparation_, 2022
-
-[2] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
-**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
-_IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022
-
-[3] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
-**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
-_The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
-
-[4] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
->>>>>>> 8c690dc58b61be1164effc048202f997dff92736
 **Xiangyu Peng**, Ningbin Zhang, Lisen Ge, Guoying Gu           
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
