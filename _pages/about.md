@@ -38,7 +38,7 @@ Publications
 _In Preparation_, 2023.
 
 [2] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
-**Xiangyu Peng** and Leia Stirling
+**Xiangyu Peng** and Leia Stirling \\
 _Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES)_, Washington DC, October 23-27, 2023. (under review)
 
 [3] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
