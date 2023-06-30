@@ -35,11 +35,11 @@ Publications
 ======
 [1] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons** \\
 **Xiangyu Peng**, Leia Stirling           
-_In Preparation_, 2023.
+_IEEE Transactions on Medical Robotics & Bionics (TMRB)_, 2023 (under review).
 
 [2] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
 **Xiangyu Peng** and Leia Stirling \\
-_Proceedings of the Human Factors and Ergonomics Society Annual Meeting (HFES)_, Washington DC, October 23-27, 2023. (under review)
+_67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. (Accepted)
 
 [3] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
