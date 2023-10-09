@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student in the Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN).
+I'm a third year PhD student in the Robotics Institute at the [University of Michigan, Ann Arbor](https://umich.edu/). I'm currently working in Stirling Research Group, advised by Prof. [Leia Stirling](https://ioe.engin.umich.edu/people/leia-stirling/). I received my B.E. degree in Mechanical Engineering at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Guoying Gu](https://scholar.google.com/citations?user=ac8jed8AAAAJ&hl=zh-CN).
 
 
 
@@ -16,7 +16,7 @@ I'm a first year PhD student in the Robotics Institute at the [University of Mic
 
 Research Interest
 ======
-My research primarily focuses on wearable robotics, mainly studying the human-robot interaction and the control of exoskeletons.
+My research primarily focuses on wearable robotics, mainly interested in the human-exoskeleton interaction, biomechanics and human factors.
 
 
 
@@ -33,23 +33,27 @@ Education
 
 Publications
 ======
-[1] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons** \\
-**Xiangyu Peng**, Leia Stirling           
-_IEEE Transactions on Medical Robotics & Bionics (TMRB)_, 2023 (under review).
+[1] **Integrating User Adaptation into an Adaptive Controller for Enhanced Task Performance in Powered Upper Limb Exoskeletons** \\
+**Xiangyu Peng**, Shunzhang Li, and Leia Stirling           
+_IEEE Robotics and Automation Letters (RA-L)_, 2023 (under review).
 
-[2] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
+[2] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
+**Xiangyu Peng**, Leia Stirling           
+_IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2023 (under review).
+
+[3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
 **Xiangyu Peng** and Leia Stirling \\
 _67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. (Accepted)
 
-[3] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
+[4] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022.
 
-[4] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
+[5] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
-[5] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
+[6] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
 **Xiangyu Peng**, Ningbin Zhang, Lisen Ge, Guoying Gu           
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
