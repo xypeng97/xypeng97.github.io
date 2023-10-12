@@ -38,7 +38,7 @@ Publications
 _IEEE Robotics and Automation Letters (RA-L)_, 2023 (under review).
 
 [2] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
-**Xiangyu Peng**, Leia Stirling           
+**Xiangyu Peng** and Leia Stirling           
 _IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2023 (under review).
 
 [3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
@@ -46,15 +46,15 @@ _IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2023 (under review).
 _67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. (Accepted)
 
 [4] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](/files/Peng_2022_TNSRE.pdf)\\
-**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
+**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, and Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022.
 
 [5] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](/files/Peng_2021_EMBC.pdf) \\
-**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, Leia Stirling           
+**Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, and Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
 [6] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](/files/Peng_2019_RoboSoft.pdf) \\
-**Xiangyu Peng**, Ningbin Zhang, Lisen Ge, Guoying Gu           
+**Xiangyu Peng**, Ningbin Zhang, Lisen Ge, and Guoying Gu           
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
 
