@@ -41,7 +41,7 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023 (under review).
 **Xiangyu Peng** and Leia Stirling           
 _IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2023 (under review).
 
-[3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** \\
+[3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** [[pdf]](/files/Peng_2023_HFES.pdf) \\
 **Xiangyu Peng** and Leia Stirling \\
 _67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. (Accepted)
 
