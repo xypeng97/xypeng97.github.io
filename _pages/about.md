@@ -41,11 +41,11 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2023 (under review).
 **Xiangyu Peng** and Leia Stirling           
 _IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2023 (under review).
 
-[3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** [[pdf]](/files/Peng_2023_HFES.pdf) \\
+[3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** [[pdf]](https://journals.sagepub.com/doi/epub/10.1177/21695067231192634) (*OETG Best Experimental Paper*) \\
 **Xiangyu Peng** and Leia Stirling \\
-_67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. (Accepted)
+_67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. 
 
-[4] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9741764)\\
+[4] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9741764) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, and Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022.
 
