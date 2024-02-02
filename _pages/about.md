@@ -33,9 +33,13 @@ Education
 
 Publications
 ======
-[1] **Integrating User Adaptation into an Adaptive Controller for Enhanced Task Performance in Powered Upper Limb Exoskeletons** \\
+<!-- [1] **Measuring Trust for Exoskeleton Systems** \\
+Leia Stirling, Man I Wu, and **Xiangyu Peng** \\
+_19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_, Boulder, CO, March 11-15, 2024.  -->
+
+[1] **Improving Complex Task Performance in Powered Upper Limb Exoskeletons with Adaptive Proportional Myoelectirc Control for User Motor Strategy Tracking** \\
 **Xiangyu Peng**, Shunzhang Li, and Leia Stirling           
-_IEEE Robotics and Automation Letters (RA-L)_, 2023 (under review).
+_IEEE Robotics and Automation Letters (RA-L)_, 2024 (under review).
 
 [2] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
 **Xiangyu Peng** and Leia Stirling           
