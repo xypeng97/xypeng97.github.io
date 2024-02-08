@@ -43,7 +43,7 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2024 (under review).
 
 [2] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
 **Xiangyu Peng** and Leia Stirling           
-_IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2023 (under review).
+_IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2024 (accepted).
 
 [3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** [[pdf]](https://journals.sagepub.com/doi/epub/10.1177/21695067231192634) (*OETG Best Experimental Paper*) \\
 **Xiangyu Peng** and Leia Stirling \\
