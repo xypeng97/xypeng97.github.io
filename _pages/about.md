@@ -41,7 +41,7 @@ _19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_
 **Xiangyu Peng**, Shunzhang Li, and Leia Stirling           
 _IEEE Robotics and Automation Letters (RA-L)_, 2024 (under review).
 
-[2] **Examination of Biofeedback to Support the Usage of EMG-Based Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
+[2] **Examination of Biofeedback to Support the Usage of Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
 **Xiangyu Peng** and Leia Stirling           
 _IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2024 (accepted).
 
