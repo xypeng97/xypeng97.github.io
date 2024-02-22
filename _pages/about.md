@@ -33,31 +33,31 @@ Education
 
 Publications
 ======
-<!-- [1] **Measuring Trust for Exoskeleton Systems** \\
-Leia Stirling, Man I Wu, and **Xiangyu Peng** \\
-_19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_, Boulder, CO, March 11-15, 2024.  -->
-
 [1] **Improving Complex Task Performance in Powered Upper Limb Exoskeletons with Adaptive Proportional Myoelectirc Control for User Motor Strategy Tracking** \\
 **Xiangyu Peng**, Shunzhang Li, and Leia Stirling           
 _IEEE Robotics and Automation Letters (RA-L)_, 2024 (under review).
 
-[2] **Examination of Biofeedback to Support the Usage of Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
-**Xiangyu Peng** and Leia Stirling           
-_IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2024 (accepted).
+[2] **Measuring Trust for Exoskeleton Systems** \\
+Leia Stirling, Man I Wu, and **Xiangyu Peng** \\
+_19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_, Boulder, CO, March 11-15, 2024. (accepted) 
 
-[3] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** [[pdf]](https://journals.sagepub.com/doi/epub/10.1177/21695067231192634) (*OETG Best Experimental Paper*) \\
+[3] **Examination of Biofeedback to Support the Usage of Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** \\
+**Xiangyu Peng** and Leia Stirling           
+_IEEE Transactions on Medical Robotics & Bionics (T-MRB)_, 2024. (accepted)
+
+[4] **Eﬀects of Biofeedback on Muscle Eﬀort Reduction when Holding Positions with a Powered Upper Limb Exoskeleton** [[pdf]](https://journals.sagepub.com/doi/epub/10.1177/21695067231192634) (*OETG Best Experimental Paper*) \\
 **Xiangyu Peng** and Leia Stirling \\
 _67th International Annual Meeting of the Human Factors and Ergonomics Society (HFES)_, Washington DC, October 23-27, 2023. 
 
-[4] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9741764) \\
+[5] **Actuation Timing Perception of a Powered Ankle Exoskeleton and its Associated Ankle Angle Changes During Walking** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9741764) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, and Leia Stirling           
 _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)_, 2022.
 
-[5] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9629925) \\
+[6] **Perception of Powered Ankle Exoskeleton Actuation Timing During Walking: A Pilot Study** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9629925) \\
 **Xiangyu Peng**, Yadrianna Acosta-Sojo, Man I Wu, and Leia Stirling           
 _The 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, Guadalajara, Mexico, October 31 - November 4, 2021. (virtual)
 
-[6] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](https://ieeexplore.ieee.org/abstract/document/8722816) \\
+[7] **Dimension Optimization of Pneumatically Actuated Soft Continuum Manipulators** [[pdf]](https://ieeexplore.ieee.org/abstract/document/8722816) \\
 **Xiangyu Peng**, Ningbin Zhang, Lisen Ge, and Guoying Gu           
 _The 2nd IEEE International Conference on Soft Robotics (RoboSoft)_, Seoul, Korea, April 14-18, 2019.
 
