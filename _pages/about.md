@@ -35,7 +35,7 @@ Publications
 ======
 [1] **Improving Complex Task Performance in Powered Upper Limb Exoskeletons with Adaptive Proportional Myoelectirc Control for User Motor Strategy Tracking** \\
 **Xiangyu Peng**, Shunzhang Li, and Leia Stirling           
-_IEEE Robotics and Automation Letters (RA-L)_, 2024 (under review).
+_IEEE Robotics and Automation Letters (RA-L)_, 2024 (accepted).
 
 [2] **Measuring Trust for Exoskeleton Systems** \\
 Leia Stirling, Man I Wu, and **Xiangyu Peng** \\
