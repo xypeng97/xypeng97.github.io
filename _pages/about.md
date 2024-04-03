@@ -39,7 +39,7 @@ _IEEE Robotics and Automation Letters (RA-L)_, 2024.
 
 [2] **Measuring Trust for Exoskeleton Systems** \\
 Leia Stirling, Man I Wu, and **Xiangyu Peng** \\
-_19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_, Boulder, CO, March 11-15, 2024.
+Workshop on _19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_, Boulder, CO, March 11-15, 2024.
 
 [3] **Examination of Biofeedback to Support the Usage of Upper-Extremity Exoskeletons Under Proportional Myoelectric Control** [[pdf]](https://ieeexplore.ieee.org/document/10472629) \\
 **Xiangyu Peng** and Leia Stirling           
