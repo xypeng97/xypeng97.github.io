@@ -16,7 +16,7 @@ I'm a third year PhD student in the Robotics Institute at the [University of Mic
 
 Research Interest
 ======
-My research primarily focuses on wearable robotics, mainly interested in the human-exoskeleton interaction, biomechanics and human factors.
+My research is centered on the ﬁeld of **wearable technologies** and **medical devices**, with a particular emphasis on the **human-robot interaction**, **biomechanics** and **human factors**. I am especially interested in understanding how individuals interact with and utilize wearable devices and medical technologies. My work aims to develop training paradigms that facilitate the learning and adaptation process for users, while also examining user behaviors to guide the design of intelligent, user-centric wearable systems.
 
 
 
@@ -37,7 +37,7 @@ Publications
 **Xiangyu Peng**, Shunzhang Li, and Leia Stirling           
 _IEEE Robotics and Automation Letters (RA-L)_, 2024.
 
-[2] **Measuring Trust for Exoskeleton Systems** \\
+[2] **Measuring Trust for Exoskeleton Systems** [[pdf]](https://arxiv.org/abs/2407.07200) \\
 Leia Stirling, Man I Wu, and **Xiangyu Peng** \\
 Workshop on _19th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)_, Boulder, CO, March 11-15, 2024.
 
